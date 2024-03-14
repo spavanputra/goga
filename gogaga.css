@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#website-name {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 28;
+    color: #94a6d6;
+}
+
+#bookings {
+    font-weight: bold;
+    font-family: Sans-Serif;
+    color: #020a1f;
+}
+
+.intro {
+    background-image: url("https://images.pexels.com/photos/1004584/pexels-photo-1004584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    height: 100vh;
+}
+
+.background-image-main-heading {
+    font-family: Roboto;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 58px;
+    font-style: italic;
+}
+
+.custom-button {
+    background-color: transparent;
+    border-width: 1px;
+    padding: 5px;
+    color: #9c1616;
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+.holiday-packages-section-heading {
+    text-align: center;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 36px;
+    color: #89947c;
+}
+
+.pack-card-image {
+    height: 90px;
+    width: 200px;
+}
+
+.pack-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+    padding: 8px;
+}
+
+.pack-card-place {
+    color: #323f4b;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.price {
+    font-family: Roboto;
+    font-weight: bold;
+    color: #8c0d0d;
+    font-size: 20px;
+}
+
+.book {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.FLIGHT {
+    font-family: Roboto;
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.booking-date {
+    font-family: Roboto;
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.flight-booking {
+    background-image: url("https://img.freepik.com/premium-photo/top-view-white-toy-airplane-model-blue-color-background-concept-travel_43448-410.jpg");
+    background-size: cover;
+    height: 30vh;
+}
+
+.submit {
+    height: 50px;
+    width: 140px;
+    margin-top: 8px;
+    background-color: #2bc0ed;
+    color: #ffffff;
+    border-radius: 6px;
+}
+
+.hotel-booking {
+    background-image: url("https://images.unsplash.com/photo-1560200353-ce0a76b1d438?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    height: 50vh;
+    text-align: center;
+}
+
+.booking-card {
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+    height: 160px;
+    width: 240px;
+}
+
+.booking {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.pack-head {
+    color: #00080a;
+    font-family: Roboto;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.pack-collections {
+    background-image: url("https://media.istockphoto.com/id/891407992/photo/amazing-aerial-brickell-miami-florida-large-scale.webp?b=1&s=170667a&w=0&k=20&c=7vp5OWaMWENtIGYi9PToQGk0uwnUJoQnVEcIPdze3cI=");
+    background-size: cover;
+}
